@@ -1,13 +1,21 @@
 {
-  "name": "lojaonlineaula",
+  "name": "projetopi",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palomafcode/lojaonlineaula.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/palomafcode/lojaonlineaula/issues"
+  },
+  "homepage": "https://github.com/palomafcode/lojaonlineaula#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
